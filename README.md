@@ -1,8 +1,8 @@
 # Projet_Fruit_Salad_2023
 
 Ce projet a été réalisé par Louis Cazade. 
-Il est directement issue des séances de TP. 
-Etant novice en react.js, le rendu est proche de ce qui a pu être fait en cours. 
+
+Novice en React.js, je me suis directement inspiré des séances de TP, auxquels j'ai essayé d'apporter certaines modifications/améliorations esthétiques et pratiques. 
 
 
 # Getting Started with Create React App
