@@ -2,7 +2,7 @@
 
 Ce projet a été réalisé par Louis Cazade. 
 Il est directement issue des séances de TP. 
-Etant novice, le rendu est proche de ce qui a pu être fait en cours. 
+Etant novice en react.js, le rendu est proche de ce qui a pu être fait en cours. 
 
 
 # Getting Started with Create React App
