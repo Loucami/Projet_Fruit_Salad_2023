@@ -1,0 +1,14 @@
+body {
+    padding: 2em;
+}
+
+.center {
+    text-align: center; 
+    align-items: center;
+    justify-content: center;
+    margin-top: 2em;
+}
+
+.space {
+    margin-top: 2em;
+}

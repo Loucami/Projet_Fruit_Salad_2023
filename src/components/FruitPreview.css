@@ -1,0 +1,269 @@
+.FruitPreview.citron {
+    background-color: yellow;
+}
+
+.FruitPreview.peche {
+    background-color: orangered;
+}
+
+.FruitPreview.fraise {
+    background-color: red;
+}
+
+.FruitPreview.cassis {
+    background-color: purple;
+}
+
+.FruitPreview.banane {
+    background-color: yellow;
+}
+
+.FruitPreview.ananas {
+    background-color: burlywood;
+}
+
+.FruitPreview.framboise {
+    background-color: blueviolet;
+}
+
+.FruitPreview.goyave {
+    background-color: rgb(162, 241, 44);
+}
+
+.FruitPreview.grenade {
+    background-color: red;
+}
+
+.FruitPreview.kaki {
+    background-color: orange;
+}
+
+.FruitPreview.kiwi {
+    background-color: brown;
+}
+
+.FruitPreview.litchi {
+    background-color: red;
+}
+
+.FruitPreview.mangue {
+    background-color: lightgreen;
+}
+
+.FruitPreview.melon {
+    background-color: orange;
+}
+
+.FruitPreview.mure {
+    background-color: red;
+}
+
+.FruitPreview.pomme {
+    background-color: red;
+}
+
+.FruitPreview.myrtille {
+    background-color: purple;
+}
+
+.FruitPreview.mure {
+    background-color: red;
+}
+
+.FruitPreview.poire {
+    background-color: rgb(248, 248, 183);
+}
+
+.FruitPreview.pomelo {
+    background-color: gold;
+}
+
+.FruitPreview.orange {
+    background-color: orange;
+}
+
+.FruitPreview img {
+    background-color: white;
+    padding: 1em;
+    margin-bottom: 2.5em;
+    border-radius: 50%;
+    width: 130px;
+    align-self: center;
+}
+
+.FruitPreview {
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+    text-align: center; 
+    justify-content: center;
+    height: 300px;
+    margin: 1em;
+}
+
+.FruitPreview button {
+    font-size: 13px;
+    border: white;
+    background-color: white;
+    box-shadow: 2px 2px 4px 2px rgba(0, 0, 0, 0.2);
+}
+
+.Button.citron {
+    color: rgb(240, 240, 0);
+}
+
+.Button.citron:hover {
+    background-color: rgb(255, 255, 190);
+}
+
+.Button.peche {
+    color: orangered;
+}
+
+.Button.peche:hover {
+    background-color: orangered;
+}
+
+.Button.fraise {
+    color: red;
+}
+
+.Button.fraise:hover {
+    background-color: rgb(255, 190, 190);
+}
+
+.Button.cassis {
+    color: purple;
+}
+
+.Button.cassis:hover {
+    background-color: rgb(231, 174, 231);
+}
+
+.Button.banane {
+    color: rgb(240, 240, 0);
+}
+
+.Button.banane:hover {
+    background-color: rgb(255, 255, 190);
+}
+
+.Button.ananas {
+    color: burlywood;
+}
+
+.Button.ananas:hover {
+    background-color: rgb(243, 221, 192);
+}
+
+.Button.framboise {
+    color: blueviolet;
+}
+
+.Button.framboise:hover {
+    background-color: rgb(221, 190, 251);
+}
+
+.Button.goyave {
+    color: rgb(154, 229, 41);
+}
+
+.Button.goyave:hover {
+    background-color: rgb(229, 255, 190);
+}
+
+.Button.grenade {
+    color: red;
+}
+
+.Button.grenade:hover {
+    background-color: rgb(255, 190, 190);
+}
+
+.Button.kaki {
+    color: orange;
+}
+
+.Button.kaki:hover {
+    background-color: rgb(252, 227, 190);
+}
+
+.Button.kiwi {
+    color: brown;
+}
+
+.Button.kiwi:hover {
+    background-color: rgb(231, 180, 180);
+}
+
+.Button.litchi {
+    color: red;
+}
+
+.Button.litchi:hover {
+    background-color: rgb(255, 190, 190);
+}
+
+.Button.mangue {
+    color: lightgreen;
+}
+
+.Button.mangue:hover {
+    background-color: rgb(230, 255, 230);
+}
+
+.Button.melon {
+    color: orange;
+}
+
+.Button.melon:hover {
+    background-color: rgb(252, 227, 190);
+}
+
+.Button.mure {
+    color: red;
+}
+
+.Button.mure:hover {
+    background-color: rgb(255, 190, 190);
+}
+
+.Button.pomme {
+    color: red;
+}
+
+.Button.pomme:hover {
+    background-color: rgb(255, 190, 190);
+}
+
+.Button.myrtille {
+    color: purple;
+}
+
+.Button.myrtille:hover {
+    background-color: rgb(231, 174, 231);
+}
+
+.Button.poire {
+    color: rgb(233, 233, 132);
+}
+
+.Button.poire:hover {
+    background-color: rgb(255, 255, 200);
+}
+
+.Button.pomelo {
+    color: gold;
+}
+
+.Button.pomelo:hover {
+    background-color: rgb(255, 245, 190);
+}
+
+.Button.orange {
+    color: orange;
+}
+
+.Button.orange:hover {
+    background-color: rgb(252, 227, 190);
+}
